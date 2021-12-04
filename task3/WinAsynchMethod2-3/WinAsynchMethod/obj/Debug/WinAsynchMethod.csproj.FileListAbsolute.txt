@@ -1,0 +1,50 @@
+F:\3\УП ПМ.01\2 День\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe.config
+F:\3\УП ПМ.01\2 День\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe
+F:\3\УП ПМ.01\2 День\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.pdb
+F:\3\УП ПМ.01\2 День\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csprojAssemblyReference.cache
+F:\3\УП ПМ.01\2 День\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.resources
+F:\3\УП ПМ.01\2 День\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.Properties.Resources.resources
+F:\3\УП ПМ.01\2 День\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.GenerateResource.cache
+F:\3\УП ПМ.01\2 День\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.CoreCompileInputs.cache
+F:\3\УП ПМ.01\2 День\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.exe
+F:\3\УП ПМ.01\2 День\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.pdb
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe.config
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod\WinAsynchMethod\bin\Debug\WinAsynchMethod.pdb
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csprojAssemblyReference.cache
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.resources
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.Properties.Resources.resources
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.GenerateResource.cache
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.CoreCompileInputs.cache
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.exe
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod\WinAsynchMethod\obj\Debug\WinAsynchMethod.pdb
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod2\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe.config
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod2\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod2\WinAsynchMethod\bin\Debug\WinAsynchMethod.pdb
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod2\WinAsynchMethod\obj\Debug\WinAsynchMethod.csprojAssemblyReference.cache
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod2\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.resources
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod2\WinAsynchMethod\obj\Debug\WinAsynchMethod.Properties.Resources.resources
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod2\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.GenerateResource.cache
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod2\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.CoreCompileInputs.cache
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod2\WinAsynchMethod\obj\Debug\WinAsynchMethod.exe
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod2\WinAsynchMethod\obj\Debug\WinAsynchMethod.pdb
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod3\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe.config
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod3\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod3\WinAsynchMethod\bin\Debug\WinAsynchMethod.pdb
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod3\WinAsynchMethod\obj\Debug\WinAsynchMethod.csprojAssemblyReference.cache
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod3\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.resources
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod3\WinAsynchMethod\obj\Debug\WinAsynchMethod.Properties.Resources.resources
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod3\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.GenerateResource.cache
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod3\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.CoreCompileInputs.cache
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod3\WinAsynchMethod\obj\Debug\WinAsynchMethod.exe
+F:\3\УП ПМ.01\WinForm3\WinAsynchMethod3\WinAsynchMethod\obj\Debug\WinAsynchMethod.pdb
+C:\Users\asus\Desktop\WinForm3\WinAsynchMethod2-3\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe.config
+C:\Users\asus\Desktop\WinForm3\WinAsynchMethod2-3\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe
+C:\Users\asus\Desktop\WinForm3\WinAsynchMethod2-3\WinAsynchMethod\bin\Debug\WinAsynchMethod.pdb
+C:\Users\asus\Desktop\WinForm3\WinAsynchMethod2-3\WinAsynchMethod\obj\Debug\WinAsynchMethod.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\WinForm3\WinAsynchMethod2-3\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.resources
+C:\Users\asus\Desktop\WinForm3\WinAsynchMethod2-3\WinAsynchMethod\obj\Debug\WinAsynchMethod.Properties.Resources.resources
+C:\Users\asus\Desktop\WinForm3\WinAsynchMethod2-3\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\WinForm3\WinAsynchMethod2-3\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\WinForm3\WinAsynchMethod2-3\WinAsynchMethod\obj\Debug\WinAsynchMethod.exe
+C:\Users\asus\Desktop\WinForm3\WinAsynchMethod2-3\WinAsynchMethod\obj\Debug\WinAsynchMethod.pdb
